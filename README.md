@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?label=%E2%80%A2&message=misskey&color=87BB41&style=for-the-badge" />
   </a>
   <a href="https://nowplaying.ikasoba.net/playing/ikasoba/url">
-    <img src="https://nowplaying.ikasoba.net/playing/ikasoba#" />
+    <img src="https://nowplaying.ikasoba.net/playing/ikasoba##" />
   </a>
 </table>
 
