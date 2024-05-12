@@ -1,3 +1,9 @@
+<h1>
+  <p align="center">
+    僕はいかそばだよ 🦑
+  </p>
+</h1>
+
 <p align="center">
   <a href="https://twitter.com/ikasoba000">
     <img src="https://img.shields.io/static/v1?label=%E2%80%A2&message=twitter&color=1DA1F2&style=for-the-badge" />
@@ -10,4 +16,8 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikasoba)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikasoba" />
+  </a>
+</p>
