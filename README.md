@@ -18,7 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikasoba" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikasoba&exclude_repo=Emojiful" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ikasoba&show_icons=true&line_height=40" />
   </a>
 </p>
 
