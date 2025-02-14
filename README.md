@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-.｡*ﾟ+.*.｡　あなたは <img src="https://kiriban.ikasoba000.workers.dev/?u=ikasoba##" /> 番目のお客様です　ﾟ+..｡*ﾟ+
+`+..｡*ﾟ+.｡*ﾟ+.*.｡　あなたは <img src="https://kiriban.ikasoba000.workers.dev/?u=ikasoba##" /> 番目のお客様です　｡.*.+ﾟ*｡.+ﾟ*｡..+`
 </p>
 
 <p align="center">
